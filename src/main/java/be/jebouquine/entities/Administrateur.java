@@ -18,7 +18,7 @@ public class Administrateur
 	 */
 	 
 	@javax.persistence.Column(nullable = false) 
-	protected int idAdministrateur;
+	protected int idAdministrator;
 
 	/**
 	 * <!-- begin-user-doc -->
